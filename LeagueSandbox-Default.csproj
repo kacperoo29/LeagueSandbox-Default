@@ -97,7 +97,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\GameServerLib\GameServerLib.csproj">
+    <ProjectReference Include="..\GameServerLib\GameServerLib.csproj">
       <Project>{cb004023-b938-4ec6-b036-29ee2f55cfa4}</Project>
       <Name>GameServerLib</Name>
     </ProjectReference>
